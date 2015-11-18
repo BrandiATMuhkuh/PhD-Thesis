@@ -2,7 +2,8 @@
 
 * What is the main idea behind this Thesis
 * What was knows before the thesis (State of the Arts)
-* What I added
+* What I added (Overview: Main comes later)
+* KeyWords to understand the rest
 * Research areas the thesis looks into
     * Peruasion
     * Multi Agend Interaction
