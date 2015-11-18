@@ -18,3 +18,11 @@
     * Simulation of the robots in a population of humans
 * Techniques and tools developed on the way
     * More or less the potential softwareX journal paper
+* Potential Area in which this knowledge can/could be used
+    * for good
+    * for evil
+* Results/What I added/Conclusion
+* Future work
+    * Not yet evaluated techniques
+    * Run it with real people
+    * Run it in the marketing area not linguistics 
