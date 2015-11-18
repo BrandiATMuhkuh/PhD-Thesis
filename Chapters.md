@@ -4,6 +4,10 @@
 * What was knows before the thesis (State of the Arts)
 * What I added (Overview: Main comes later)
 * KeyWords to understand the rest
+    * Interlocutor: Conversation partner
+    * Lexical Entrainment: Other peoples influence on your personal inner dictionary relative. 
+    * Morphology: Forming new words
+    * Persuasion: Any type of obviouse or non-obviouse influence. This is differnt to Fogg who defines persuasion as something a person can actually say no to it. Maybe linguistic is such a case (not sure)
 * Research areas the thesis looks into
     * Peruasion
     * Multi Agend Interaction
