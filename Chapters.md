@@ -4,7 +4,7 @@
 * What was knows before the thesis (State of the Arts)
 * What I added
 * Research areas the thesis looks into
-* * Peruasion
+** Peruasion
 * * Multi Agend Interaction
 * * Social Linguistics
 * * Future scenarios: E.g Facebook experiment on happines
