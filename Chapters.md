@@ -2,6 +2,7 @@
 
 * What is the main idea behind this Thesis
 * What was knows before the thesis (State of the Arts)
+    * Situation in 2016 (x mio people use twitter, facebook): Social Twitter Robots manipulate plitical climate (Russia, Brassil, ISIS, ...)    
 * What I added (Overview: Main comes later)
 * KeyWords to understand the rest
     * Interlocutor: Conversation partner
