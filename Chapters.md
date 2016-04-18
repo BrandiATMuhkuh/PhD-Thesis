@@ -17,11 +17,13 @@
 * The way to the goal
     * Asch experiment
         * I learned that humans don't see themselve beeing part of the group of robots
+    * Reciprocity
+         * We learned that groups let robot influence humans    
     * Morphessor 1
-        * Robots can influence humans language but we don't know how
+        * Robots can influence humans language in a in/out group situation
     * Morphessor 2
-        * Test what things have more/less influence compared to morphessor 2
-    * Simulation of the robots in a population of humans
+        * Test how human influence differes from robot influence
+    * Simulation how positioning robots in a network influences the network
 * Techniques and tools developed on the way
     * More or less the potential softwareX journal paper
 * Potential Area in which this knowledge can/could be used
